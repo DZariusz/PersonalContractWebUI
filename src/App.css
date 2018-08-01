@@ -1,0 +1,51 @@
+/* PAGE */
+
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 80px 30px 30px;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.MuiPaper {
+  padding: 20px;
+  margin: 0 0 25px 0;
+}
+
+.MuiChip {
+  margin: 5px;
+}
+
+.MuiTable {
+  margin-bottom: 25px;
+}
+
+
+.footer {
+  text-align: center;
+}
+.footer .MuiChip {
+  margin: 0 5px;
+}
+
+.MuiChip.net-id-1 {
+  background-color: #29B6AF;
+}
+
+.MuiChip.net-id-3 {
+  background-color: #FF4A8D;
+}
+
+.MuiChip.net-id-4 {
+  background-color: #F6C343;
+}
+
+.MuiChip.net-id-42 {
+  background-color: #7057FF;
+}
